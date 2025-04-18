@@ -64,4 +64,3 @@ matrix-operations/
 - Transpose
 - Determinant
 - Inverse
-```
